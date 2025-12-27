@@ -1,4 +1,4 @@
-# Hi I'm Akshay Kumavat 👋 
+# Hi, I'm Akshay Kumavat 👋 
 **|| Software Engineer || .Net Developer ||**
 
 - 🔭 I’m currently working on -> .NET technology 
